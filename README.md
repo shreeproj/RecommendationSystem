@@ -1,2 +1,3 @@
 # RecommendationSystem
-ML
+Anaconda Python distribution
+Tensor flow
